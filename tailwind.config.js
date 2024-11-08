@@ -7,7 +7,7 @@ module.exports = {
         sans: ["Poppins", "sans-serif"],
       },
       gridTemplateColumns: {
-        "70/30": "70% 20%",
+        "70/30": "70% 30%",
       },
     },
   },
