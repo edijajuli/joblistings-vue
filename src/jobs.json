@@ -85,8 +85,7 @@
       }
     },
     {
-      "id": "df24",
-      "title": "Hadley Pace",
+      "title": "Junior Software Engineer",
       "type": "Internship",
       "location": "Unde ea rem consequu",
       "description": "Sunt rerum culpa eo",
@@ -96,21 +95,22 @@
         "description": "Officia eligendi dol",
         "contactEmail": "nizivu@mailinator.com",
         "contactPhone": "+1 (226) 314-3017"
-      }
+      },
+      "id": "df24"
     },
     {
-      "id": "626c",
-      "title": "Jillian Whitaker",
+      "title": "Senior Fullstack Web Dev",
       "type": "Remote",
       "location": "Nemo asperiores quia",
       "description": "Anim odit aute et qu",
-      "salary": "$80K - $90K",
+      "salary": "$175K - $200K",
       "company": {
         "name": "Fletcher Charles Associates",
         "description": "Distinctio Odio per",
         "contactEmail": "qona@mailinator.com",
         "contactPhone": "+1 (113) 245-6838"
-      }
+      },
+      "id": "626c"
     }
   ]
 }
