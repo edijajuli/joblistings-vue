@@ -1,6 +1,6 @@
-# vue-crash-2024
+# vue-app-joblistings
 
-This template should help get you started developing with Vue 3 in Vite.
+This app is for showing job listings and we can make the CRUD action using JSON server
 
 ## Recommended IDE Setup
 
