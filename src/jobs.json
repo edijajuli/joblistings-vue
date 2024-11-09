@@ -1,7 +1,7 @@
 {
   "jobs": [
     {
-      "id": 1,
+      "id": "1",
       "title": "Senior Vue Developer",
       "type": "Full-Time",
       "description": "We are seeking a talented Front-End Developer to join our team in Boston, MA. The ideal candidate will have strong skills in HTML, CSS, and JavaScript, with experience working with modern JavaScript frameworks such as Vue or Angular.",
@@ -15,7 +15,7 @@
       }
     },
     {
-      "id": 2,
+      "id": "2",
       "title": "Front-End Engineer (Vue)",
       "type": "Full-Time",
       "description": "Join our team as a Front-End Developer in sunny Miami, FL. We are looking for a motivated individual with a passion for crafting beautiful and responsive web applications. Experience with UI/UX design principles and a strong attention to detail are highly desirable.",
@@ -29,7 +29,7 @@
       }
     },
     {
-      "id": 3,
+      "id": "3",
       "title": "Vue.js Developer",
       "type": "Full-Time",
       "description": "Are you passionate about front-end development? Join our team in vibrant Brooklyn, NY, and work on exciting projects that make a difference. We offer competitive compensation and a collaborative work environment where your ideas are valued.",
@@ -43,7 +43,7 @@
       }
     },
     {
-      "id": 4,
+      "id": "4",
       "title": "Vue Front-End Developer",
       "type": "Part-Time",
       "description": "Join our team as a Part-Time Front-End Developer in beautiful Pheonix, AZ. We are looking for a self-motivated individual with a passion for creating engaging user experiences. This position offers flexible hours and the opportunity to work remotely.",
@@ -57,7 +57,7 @@
       }
     },
     {
-      "id": 5,
+      "id": "5",
       "title": "Full Stack Vue Developer",
       "type": "Full-Time",
       "description": "Exciting opportunity for a Full-Time Front-End Developer in bustling Atlanta, GA. We are seeking a talented individual with a passion for building elegant and scalable web applications. Join our team and make an impact!",
@@ -71,7 +71,7 @@
       }
     },
     {
-      "id": 6,
+      "id": "6",
       "title": "Vue Native Developer",
       "type": "Full-Time",
       "description": "Join our team as a Front-End Developer in beautiful Portland, OR. We are looking for a skilled and enthusiastic individual to help us create innovative web solutions. Competitive salary and great benefits package available.",
@@ -82,6 +82,48 @@
         "description": "Port Solutions is a leading technology company specializing in software development and digital marketing. We are committed to providing our clients with cutting-edge solutions and our employees with a supportive and rewarding work environment.",
         "contactEmail": "contact@ipsumlorem.com",
         "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "df24",
+      "title": "Hadley Pace",
+      "type": "Internship",
+      "location": "Unde ea rem consequu",
+      "description": "Sunt rerum culpa eo",
+      "salary": "$50K - $60K",
+      "company": {
+        "name": "Little Foley Co",
+        "description": "Officia eligendi dol",
+        "contactEmail": "nizivu@mailinator.com",
+        "contactPhone": "+1 (226) 314-3017"
+      }
+    },
+    {
+      "id": "626c",
+      "title": "Jillian Whitaker",
+      "type": "Remote",
+      "location": "Nemo asperiores quia",
+      "description": "Anim odit aute et qu",
+      "salary": "$80K - $90K",
+      "company": {
+        "name": "Fletcher Charles Associates",
+        "description": "Distinctio Odio per",
+        "contactEmail": "qona@mailinator.com",
+        "contactPhone": "+1 (113) 245-6838"
+      }
+    },
+    {
+      "id": "2eaa",
+      "title": "Kennedy Dunn",
+      "type": "Remote",
+      "location": "Id non at nesciunt",
+      "description": "Consequuntur amet i",
+      "salary": "$150K - $175K",
+      "company": {
+        "name": "Love and Landry Co",
+        "description": "Sunt aut id officia",
+        "contactEmail": "wytucyges@mailinator.com",
+        "contactPhone": "+1 (184) 966-3068"
       }
     }
   ]
