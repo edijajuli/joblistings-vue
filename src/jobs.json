@@ -111,20 +111,6 @@
         "contactEmail": "qona@mailinator.com",
         "contactPhone": "+1 (113) 245-6838"
       }
-    },
-    {
-      "id": "2eaa",
-      "title": "Kennedy Dunn",
-      "type": "Remote",
-      "location": "Id non at nesciunt",
-      "description": "Consequuntur amet i",
-      "salary": "$150K - $175K",
-      "company": {
-        "name": "Love and Landry Co",
-        "description": "Sunt aut id officia",
-        "contactEmail": "wytucyges@mailinator.com",
-        "contactPhone": "+1 (184) 966-3068"
-      }
     }
   ]
 }
